@@ -21,7 +21,7 @@ The objective is to explore workforce trends, understand employee attrition acro
 - **Pandas:** Data manipulation and analysis.
 - **NumPy:** Numerical operations.
 - **Matplotlib & Seaborn:** Data visualization.
-- **PostgreSQL:** SQL query development for workforce analysis.
+- **PostgreSQL:** Analyze employee data, identify key factors influencing employee attrition and workforce trends.
 
 **Project Structure**
 
@@ -93,7 +93,7 @@ Used Python libraries to:
 
 **3. PostgreSQL SQL Query Development**
 
-Prepared SQL scripts for business-focused workforce analysis, including:
+Prepared SQL queries covered business-focused workforce analysis, including:
 
 - Database and table creation.
 - Data exploration and quality checks.
