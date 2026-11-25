@@ -93,7 +93,7 @@ Used Python libraries to:
 
 **3. PostgreSQL SQL Query Development**
 
-Prepared SQL queries covered business-focused workforce analysis, including:
+SQL queries covered business focused workforce analysis, including:
 
 - Database and table creation.
 - Data exploration and quality checks.
