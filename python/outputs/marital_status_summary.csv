@@ -1,0 +1,4 @@
+MaritalStatus,Total_Employees,Employees_Left,Employees_Stayed,Attrition_Rate
+Single,470,120,350,25.53
+Married,673,84,589,12.48
+Divorced,327,33,294,10.09

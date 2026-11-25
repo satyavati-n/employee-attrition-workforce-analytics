@@ -1,0 +1,94 @@
+
+EMPLOYEE ATTRITION & WORKFORCE ANALYTICS
+PYTHON ANALYSIS REPORT
+
+OVERALL WORKFORCE
+
+Total Employees: 1470
+Employees Who Left: 237
+Employees Who Stayed: 1233
+Overall Attrition Rate: 16.12%
+
+AVERAGE METRICS
+
+Average Age: 36.92
+Average Monthly Income: 6502.93
+
+DEPARTMENT ANALYSIS
+
+                        Total_Employees  Employees_Left  Employees_Stayed  Attrition_Rate
+Department                                                                               
+Sales                               446              92               354           20.63
+Human Resources                      63              12                51           19.05
+Research & Development              961             133               828           13.84
+
+JOB ROLE ANALYSIS
+
+                           Total_Employees  Employees_Left  Employees_Stayed  Attrition_Rate
+JobRole                                                                                     
+Sales Representative                    83              33                50           39.76
+Laboratory Technician                  259              62               197           23.94
+Human Resources                         52              12                40           23.08
+Sales Executive                        326              57               269           17.48
+Research Scientist                     292              47               245           16.10
+Manufacturing Director                 145              10               135            6.90
+Healthcare Representative              131               9               122            6.87
+Manager                                102               5                97            4.90
+Research Director                       80               2                78            2.50
+
+OVERTIME ANALYSIS
+
+          Total_Employees  Employees_Left  Employees_Stayed  Attrition_Rate
+OverTime                                                                   
+Yes                   416             127               289           30.53
+No                   1054             110               944           10.44
+
+JOB SATISFACTION ANALYSIS
+
+                 Total_Employees  Employees_Left  Employees_Stayed  Attrition_Rate
+JobSatisfaction                                                                   
+1                            289              66               223           22.84
+3                            442              73               369           16.52
+2                            280              46               234           16.43
+4                            459              52               407           11.33
+
+BUSINESS TRAVEL ANALYSIS
+
+                   Total_Employees  Employees_Left  Employees_Stayed  Attrition_Rate
+BusinessTravel                                                                      
+Travel_Frequently              277              69               208           24.91
+Travel_Rarely                 1043             156               887           14.96
+Non-Travel                     150              12               138            8.00
+
+MARITAL STATUS ANALYSIS
+
+               Total_Employees  Employees_Left  Employees_Stayed  Attrition_Rate
+MaritalStatus                                                                   
+Single                     470             120               350           25.53
+Married                    673              84               589           12.48
+Divorced                   327              33               294           10.09
+
+AGE GROUP ANALYSIS
+
+          Total_Employees  Employees_Left  Employees_Stayed  Attrition_Rate
+AgeGroup                                                                   
+18-22                  57              27                30           47.37
+28-32                 306              70               236           22.88
+23-27                 153              32               121           20.92
+58-62                  29               5                24           17.24
+33-37                 332              43               289           12.95
+48-52                 110              14                96           12.73
+43-47                 163              17               146           10.43
+53-57                  77               8                69           10.39
+38-42                 243              21               222            8.64
+
+DATA QUALITY
+
+                     Check  Result
+                Total Rows    1470
+             Total Columns      35
+            Missing Values       0
+            Duplicate Rows       0
+Duplicate Employee Numbers       0
+
+END OF REPORT

@@ -1,0 +1,1 @@
+\copy employees FROM 'C:/YOUR/PATH/WA_Fn-UseC_-HR-Employee-Attrition.csv' WITH (FORMAT CSV, HEADER TRUE, DELIMITER ',', ENCODING 'UTF8');
